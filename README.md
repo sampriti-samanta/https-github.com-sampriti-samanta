@@ -3,9 +3,7 @@
 # Hi, I'm Sampriti Samanta 👋
 
 🎓 B.Tech CSE Student at Sister Nivedita University  
-💻 Currently learning Data Structures and Java  
-🔥 Practicing problem solving consistently  
-🎯 Goal: Become a skilled Software Developer  
+💻 Currently learning Python 
 
 ---
 
