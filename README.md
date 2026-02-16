@@ -1,8 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&color=FF5733&center=true&vCenter=true&multiline=true&width=600&lines=Hi+I+am+Sampriti+Samanta;Learning+DSA+%26+Java;Building+Projects+%26+Skills" alt="Typing SVG" />
-</h1>
-
-
 
 
 # Hi, I'm Sampriti Samanta 👋
