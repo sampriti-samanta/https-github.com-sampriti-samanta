@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="WelcomeBanner.png" />
-</p>
 
 
 ## 👩‍💻 About Me
